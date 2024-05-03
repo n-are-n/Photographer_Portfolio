@@ -1,0 +1,20 @@
+{
+  "name": "photoport",
+  "version": "1.0.0",
+  "description": "A personal portfolio website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/n-are-n/Photographer_Portfolio.git",
+    "type": "public",
+    "directory": "C:\\Users\\nprasads\\Sources\\repos\\Photographer_Portfolio"
+  },
+  "keywords": [
+    "portfolio",
+    "photographer"
+  ],
+  "author": "Prasad",
+  "license": "ISC"
+}
