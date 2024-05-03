@@ -4,7 +4,7 @@
   "description": "A personal portfolio website",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "url": "https://github.com/n-are-n/Photographer_Portfolio.git",
@@ -16,5 +16,8 @@
     "photographer"
   ],
   "author": "Prasad",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
